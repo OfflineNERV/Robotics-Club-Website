@@ -47,9 +47,8 @@ npm run studio
 ```
 ## To-Do
 - [ ] Update Home Page
-    - [ ] Description of Officers
     - [ ] Update Cards
-    - [ ] FRQ section
+    - [x] FRQ section
 - [ ] Sponsors page
     - [ ] Tier List
     - [ ] Contact us
